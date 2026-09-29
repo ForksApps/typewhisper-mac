@@ -66,4 +66,14 @@ Use the [issue templates](https://github.com/TypeWhisper/typewhisper-mac/issues/
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under GPLv3.
+Contributions to the open-source project are distributed under GPLv3.
+TypeWhisper also offers commercial licenses. Our shared
+[Contributor License Agreement](https://github.com/TypeWhisper/.github/blob/main/CLA.md)
+lets contributors retain ownership while granting the rights needed for both
+open-source and commercial distribution.
+
+Read the [organization-wide contribution rules](https://github.com/TypeWhisper/.github/blob/main/CONTRIBUTING.md)
+and the agreement at [app.typewhisper.com/cla](https://app.typewhisper.com/cla).
+The signing process is being prepared for activation. A pull request submission
+does not itself record acceptance, and previous contributions are reviewed
+separately. Employer authorization and third-party licenses still apply.
